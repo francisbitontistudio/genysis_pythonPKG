@@ -18,9 +18,9 @@ setup(name='genysis',
           'json>=18.2',
           'ast>=32.2'
       ],
-      entry_points={
-          'console_scripts': [
-              'encrypt=crytto.main:run'
-          ]
-      }
+      # entry_points={
+      #     'console_scripts': [
+      #         'encrypt=crytto.main:run'
+      #     ]
+      # }
 )
